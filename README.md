@@ -93,8 +93,8 @@ Kalau mau ke saya juga boleh, via [Saweria](https://saweria.co/elzeXD)
 
 [![Yusuf Usta](https://github.com/quiec.png?size=100)](https://quiec.tech) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Vincent S](https://github.com/elzeXD.png?size=100)](https://elzeXD.github.io)
 ---|---|---
-[Yusuf Usta](https://t.me/fusuf) | [Alperen Ç](https://t.me/xacnio) | [Vincent S](https://t.me/elzeXD)
-Base, Development, Idea, Modules |  Bug Fixes, Modules | Remodder, Re-translate
+[Yusuf Usta](https://t.me/fusuf) | [Alperen Ç](https://t.me/xacnio) | [Vincent S](https://t.me/elzeXD) | [Zankee](https://t.me/zankizaif)
+Base, Development, Idea, Modules |  Bug Fixes, Modules | Remodder, Re-translate|Tukang Fork Project Orang
 
 ## Thanks To:
 
